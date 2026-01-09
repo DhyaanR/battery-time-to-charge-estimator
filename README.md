@@ -61,7 +61,9 @@ ALGORITHM OUTPUTS
 
 REPOSITORY STRUCTURE
 --------------------
+
 ev-time-to-charge-algorithm/
+
 |
 |-- README.md
 |-- scripts/
@@ -71,9 +73,7 @@ ev-time-to-charge-algorithm/
 |   |-- ttc_cccv.m
 |   |-- ttc_power_limited.m
 |   |-- utils_clamp.m
-|
-|-- docs/
-    |-- assumptions.md
+
 
 
 HOW TO RUN (MATLAB VERSION)
